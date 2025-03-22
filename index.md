@@ -1,7 +1,11 @@
-[Download Resume](Resume_Shivam.pdf)
 
-**SHIVAM VISHWAKARMA**  
-Pune, MH / India| \+919589212176 | svshivamvishwakarma@outlook.com | www.linkedin.com/in/shivamvishwakarma
+**SHIVAM VISHWAKARMA**    <br>
+ 
+ GO | JAVA 
+
+ ***Hire Me*** <br>
+ svshivamvishwakarma@outlook.com <br>
+ www.linkedin.com/in/shivamvishwakarma
 
 **SUMMARY**  
     
@@ -78,5 +82,3 @@ Subjects: Software Engineering, Data Structures and Algorithms, Cloud Computing 
 
 * Go \[ Udemy \]  
 * Java \[ Udemy \]
-
-**INTERESTS:** Tennis, Landscape Photography.  
